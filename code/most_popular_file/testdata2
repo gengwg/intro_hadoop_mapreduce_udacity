@@ -1,0 +1,9 @@
+10.86.202.190 - - [20/Jul/2010:19:47:02 -0700] "GET http://www.the-associates.co.uk/assets/css/combined.css HTTP/1.0" 200 31440
+10.86.202.190 - - [21/Jul/2010:03:26:42 -0700] "GET http://www.the-associates.co.uk/assets/css/combined.css HTTP/1.0" 200 31440
+10.211.47.159 - - [03/Jan/2010:19:18:05 -0800] "GET /assets/css/combined.css HTTP/1.1" 200 5911
+10.211.47.159 - - [03/Jan/2010:19:18:25 -0800] "GET /assets/css/combined.css HTTP/1.1" 200 5911
+10.211.47.159 - - [03/Jan/2010:19:27:26 -0800] "GET /assets/css/combined.css HTTP/1.1" 200 6373
+10.211.47.159 - - [03/Jan/2010:19:28:01 -0800] "GET /assets/css/combined.css HTTP/1.1" 200 6373
+10.211.47.159 - - [03/Jan/2010:19:30:26 -0800] "GET /assets/css/combined.css HTTP/1.1" 200 6373
+10.86.202.190 - - [21/Jul/2010:07:02:42 -0700] "GET http://www.the-associates.co.uk/assets/css/combined.css HTTP/1.0" 200 31440
+10.86.202.190 - - [21/Jul/2010:13:17:17 -0700] "GET http://www.the-associates.co.uk/assets/css/combined.css HTTP/1.0" 200 31440
